@@ -1,0 +1,41 @@
+#!/bin/bash
+
+## cd
+alias c='cd'
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias h='cd ~'
+
+## ls
+alias la='ls -a'
+alias ll='ls -l'
+
+## mkdir
+alias m='mkdir'
+
+## copy & paste
+alias pbc='pbcopy'
+alias pbp='pbpaste'
+
+## Git
+alias g='git'
+alias gf='git fetch'
+alias gb='git branch'
+alias gch='git checkout'
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push'
+alias gd='git diff'
+alias gs='git status'
+
+## Docker
+alias d='docker'
+
+## editor
+alias v='code'
+alias co='code'
+alias n='nvim'
+alias nv='nvim'
+alias ch='charm'
+
