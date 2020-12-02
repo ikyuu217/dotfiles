@@ -39,3 +39,5 @@ alias n='nvim'
 alias nv='nvim'
 alias ch='charm'
 
+## python
+alias p='python3'
