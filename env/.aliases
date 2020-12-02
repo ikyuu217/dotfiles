@@ -5,7 +5,6 @@ alias c='cd'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
-alias h='cd ~'
 
 ## ls
 alias la='ls -a'
