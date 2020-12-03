@@ -28,6 +28,7 @@ alias gp='git push'
 alias gd='git diff'
 alias gs='git status'
 alias gr='git rm'
+alias gl='git log'
 
 ## Docker
 alias d='docker'
