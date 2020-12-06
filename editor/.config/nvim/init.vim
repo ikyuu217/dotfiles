@@ -37,6 +37,10 @@ set hidden
 " # Key Mapping 
 " =============================================================================
 
+" Move by line
+nnoremap j gj
+nnoremap k gk
+
 nnoremap Y y$
 nnoremap ; :
 "Ctrl-c as Esc
