@@ -42,7 +42,8 @@ nnoremap j gj
 nnoremap k gk
 
 nnoremap Y y$
-nnoremap ; :
+" nnoremap ; :
+
 "Ctrl-c as Esc
 inoremap <C-c> <Esc>
 nmap Q <Nop>
