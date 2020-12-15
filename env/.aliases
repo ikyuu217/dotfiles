@@ -17,6 +17,9 @@ alias m='mkdir'
 alias pbc='pbcopy'
 alias pbp='pbpaste'
 
+## less
+alias l='less'
+
 ## Git
 alias g='git'
 alias gf='git fetch'
