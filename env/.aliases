@@ -47,3 +47,6 @@ alias ch='charm'
 
 ## python
 alias p='python3'
+
+## Haskell
+alias ghci='stack ghci'
