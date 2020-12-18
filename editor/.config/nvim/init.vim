@@ -41,6 +41,10 @@ set hidden
 nnoremap j gj
 nnoremap k gk
 
+" Do not yank
+nnoremap x "_x
+nnoremap s "_s
+
 nnoremap Y y$
 " nnoremap ; :
 
