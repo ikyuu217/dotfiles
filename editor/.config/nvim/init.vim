@@ -50,4 +50,12 @@ nnoremap Y y$
 
 "Ctrl-c as Esc
 inoremap <C-c> <Esc>
+
+"Auto-completion
+inoremap { {}<LEFT>
+inoremap [ []<LEFT>
+inoremap ( ()<LEFT>
+inoremap " ""<LEFT>
+inoremap ' ''<LEFT>
+
 nmap Q <Nop>
