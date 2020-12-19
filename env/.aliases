@@ -37,6 +37,7 @@ alias gl='git log'
 alias d='docker'
 alias di='docker images'
 alias dr='docker run'
+alias dp='docker ps'
 
 ## editor
 alias v='code'
