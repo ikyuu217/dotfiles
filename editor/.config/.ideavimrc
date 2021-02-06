@@ -1,4 +1,5 @@
 : set relativenumber
+: set clipboard=unnamed
 
 " Do not yank
 nnoremap x "_x"
