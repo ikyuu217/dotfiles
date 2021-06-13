@@ -10,6 +10,10 @@ alias ....='cd ../../..'
 alias la='ls -a'
 alias ll='ls -l'
 
+## find
+alias f='find'
+alias fp='find `pwd` -name'
+
 ## touch
 alias t='touch'
 
